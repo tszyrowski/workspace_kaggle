@@ -1,3 +1,9 @@
 [submodule "kaggle_learn"]
 	path = kaggle_learn
 	url = ./kaggle_learn
+[submodule "kc-Jane_Street_Real-Time_Market_Data_Forecasting"]
+	path = kc-Jane_Street_Real-Time_Market_Data_Forecasting
+	url = ssh://git@github.com:tszyrowski/kc-Jane_Street_Real-Time_Market_Data_Forecasting.git
+[submodule "kc-NFL_Big_Data_Bowl_2025"]
+	path = kc-NFL_Big_Data_Bowl_2025
+	url = git@github.com:tszyrowski/kc-NFL_Big_Data_Bowl_2025.git

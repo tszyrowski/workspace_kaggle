@@ -1,0 +1,25 @@
+annoy
+# cuml-cuda100
+# feather
+ipykernel
+jupyter
+jupyter_contrib_nbextensions
+kaggle
+lightgbm
+matplotlib
+missingno
+networkx
+nltk
+numpy
+pandas
+pandas_bokeh
+plotly
+pydot
+scipy
+seaborn
+scikit-learn
+sentence_transformers
+stylecloud
+tqdm
+wordcloud
+xgboost
